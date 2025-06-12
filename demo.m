@@ -1,5 +1,5 @@
 clc;
-close all;
+close all
 
 addpath('data'); addpath('funs'); addpath('SPDFS');
 Files = dir(fullfile('data', '*.mat'));
