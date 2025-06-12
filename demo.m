@@ -1,4 +1,4 @@
-clc;
+clc
 close all
 
 addpath('data'); addpath('funs'); addpath('SPDFS');
